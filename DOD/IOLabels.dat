@@ -1,0 +1,29 @@
+ENVT0100,LM:2021/11/09 12:42:17:782,DS:0000000499,CS:09801,MA:0C-96-E6-CA-0E-51,EI:           
+sRCNGVersion="5.4.7"
+InputBitLabels {
+	nNumberOfLabels=0
+}
+InputByteLabels {
+	nNumberOfLabels=0
+}
+InputWordLabels {
+	nNumberOfLabels=0
+}
+OutputBitLabels {
+	nNumberOfLabels=0
+}
+OutputByteLabels {
+	nNumberOfLabels=0
+}
+OutputWordLabels {
+	nNumberOfLabels=0
+}
+MemoryBitLabels {
+	nNumberOfLabels=0
+}
+MemoryByteLabels {
+	nNumberOfLabels=0
+}
+MemoryWordLabels {
+	nNumberOfLabels=0
+}

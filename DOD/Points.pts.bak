@@ -1,0 +1,76 @@
+ENVT0100,LM:2021/11/12 16:17:10:087,DS:0000001016,CS:02058,MA:0C-96-E6-CA-0E-51,EI:           
+sVersion="1.0.0"
+nDisplayMode=4
+nNumberOfPoints=4
+Point1 {
+	nNumber=1
+	sLabel="Bod_1"
+	sDescription="Zasobnik"
+	rX=0
+	rY=419.305
+	rZ=-20
+	rU=-90
+	rV=0
+	rW=0
+	nLocal=0
+	nHand=1
+	nElbow=1
+	nWrist=1
+	nJ4Flag=0
+	nJ6Flag=0
+	bSimVisible=False
+}
+Point2 {
+	nNumber=2
+	sLabel="Bod_2"
+	sDescription="Nad zasobnikem"
+	rX=0
+	rY=419.305
+	rZ=-300
+	rU=-90
+	rV=0
+	rW=0
+	nLocal=0
+	nHand=1
+	nElbow=1
+	nWrist=1
+	nJ4Flag=0
+	nJ6Flag=0
+	bSimVisible=False
+}
+Point3 {
+	nNumber=3
+	sLabel="Bod_3"
+	sDescription=""
+	rX=60.97
+	rY=509.09
+	rZ=-476.813
+	rU=76.337
+	rV=-1.986
+	rW=-179.762
+	nLocal=0
+	nHand=1
+	nElbow=2
+	nWrist=2
+	nJ4Flag=0
+	nJ6Flag=0
+	bSimVisible=False
+}
+Point4 {
+	nNumber=4
+	sLabel="Bod_4"
+	sDescription=""
+	rX=35.017
+	rY=292.388
+	rZ=-279.132
+	rU=-89.239
+	rV=-25.802
+	rW=-3.319
+	nLocal=0
+	nHand=1
+	nElbow=1
+	nWrist=2
+	nJ4Flag=0
+	nJ6Flag=0
+	bSimVisible=False
+}
